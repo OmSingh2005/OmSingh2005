@@ -1,13 +1,14 @@
-# Hi, I'm Om
+# Hi, I'm Om 👋
 
 <table>
   <tr>
-    <td width="10%" align="center">
-      <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="100" alt="Coding Animation">
+    <td width="5%" align="center">
+      <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExdHlvNHgzMHJyb3RiODU4bDJhZTJ1ejY4ajZwOTk4eXhnNGZkcmx5byZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/HscDLzkO8EOTmgkhQP/giphy.gif" width="130" alt="Coding Animation">
     </td>
     <td width="90%" valign="middle">
       <h4>Welcome to my corner of GitHub—just another person who likes building, breaking, and occasionally fixing things.</h4>
       <blockquote>Whether you came here by curiosity, accident, or stalking (no judgment 😏), you're welcome!</blockquote>
+      <br>
     </td>
     
   </tr>
@@ -18,7 +19,7 @@
 
 <table>
   <tr>
-    <td width="60%" valign="top">
+    <td width="80%" valign="top">
       <ul>
         <br>
         <li>📚 <b>CS Student</b> — forever caught between "debugging" and "despair".</li>
@@ -28,8 +29,8 @@
         <li>🌱 <b>Work-in-progress</b> — writing code, making memories, breaking fewer things (hopefully).</li>
       </ul>
     </td>
-    <td width="40%" align="center">
-      <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExbnJ6aG1xOHV0eTl3dmhyNmNhNjdyZ2ZwaHRndHdxcGNrYzV0Z3kwbyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/3NyvreZAtNLrNKTrKa/giphy.gif" width="250" alt="Coding GIF">
+    <td width="30%" align="center">
+      <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExbnJ6aG1xOHV0eTl3dmhyNmNhNjdyZ2ZwaHRndHdxcGNrYzV0Z3kwbyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/3NyvreZAtNLrNKTrKa/giphy.gif" width="280" alt="Coding GIF">
     </td>
   </tr>
 </table>
