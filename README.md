@@ -3,7 +3,7 @@
 <table>
   <tr>
     <td width="5%" align="center">
-      <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExdHlvNHgzMHJyb3RiODU4bDJhZTJ1ejY4ajZwOTk4eXhnNGZkcmx5byZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/HscDLzkO8EOTmgkhQP/giphy.gif" width="130" alt="Coding Animation">
+      <img src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" width="130" alt="Coding Animation">
     </td>
     <td width="90%" valign="middle">
       <h4>Welcome to my corner of GitHub—just another person who likes building, breaking, and occasionally fixing things.</h4>
