@@ -6,7 +6,7 @@
       <img src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" width="130" alt="Coding Animation">
     </td>
     <td width="90%" valign="middle">
-      <h4>Welcome to my corner of GitHub—just another person who likes building, breaking, and occasionally fixing things.</h4>
+      <h4>Welcome to my corner of GitHub—just another person who likes building, breaking, and occasionally fixing things. While still chasing that perfect commit message.</h4>
       <blockquote>Whether you came here by curiosity, accident, or stalking (no judgment 😏), you're welcome!</blockquote>
       <br>
     </td>
@@ -22,11 +22,12 @@
     <td width="80%" valign="top">
       <ul>
         <br>
-        <li>📚 <b>CS Student</b> — forever caught between "debugging" and "despair".</li>
-        <li>🛠️ <b>Learning & Unlearning</b> — Python chaos, Java wizardry, Data Science dreams.</li>
-        <li>🎯 <b>Consistency > Perfection</b> — slow and steady, but sometimes sleepy.</li>
-        <li>🎮 <b>Gamer at heart</b> — Building in Minecraft, chilling in Stardew, grinding in Genshin.</li>
-        <li>🌱 <b>Work-in-progress</b> — writing code, making memories, breaking fewer things (hopefully).</li>
+        <li>Still wondering if semicolons are optional or just passive-aggressive.</li>
+        <li>📚 <b>CS Student</b> forever caught between "debugging" and "despair".</li>
+        <li>🛠️ <b>Learning & Unlearning</b> Python chaos, Java wizardry, Data Science dreams.</li>
+        <li>🎯 <b>Consistency > Perfection</b> slow and steady, but sometimes sleepy.</li>
+        <li>🎮 <b>Gamer at heart</b> Building in Minecraft and chilling in Stardew.</li>
+        <li>🌱 <b>Work-in-progress</b> Writes code that compiles. Eventually. (trynna break fewer things hopefully).</li>
       </ul>
     </td>
     <td width="30%" align="center">
